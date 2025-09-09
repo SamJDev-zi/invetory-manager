@@ -1,2 +1,2 @@
 # invetory-manager
-Gestor de ventas para calcular las ganasacias.
+Gestor de ventas para calcular las ganancias.
